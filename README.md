@@ -672,6 +672,7 @@ on t4.cust_id = t1.cust_id;
 ```
 
 &emsp;&emsp;特征说明如下：
+<!-- 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -682,7 +683,8 @@ on t4.cust_id = t1.cust_id;
 .tg .tg-nfft{background-color:#FFFAE5;text-align:left;vertical-align:top}
 .tg .tg-pc0k{background-color:#FFF8B9;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+</style> 
+-->
 <table class="tg">
 <thead>
   <tr>
@@ -1211,6 +1213,7 @@ plt.tight_layout()
 plt.show()
 ```
 
+<!--
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -1225,6 +1228,7 @@ plt.show()
 .tg .tg-50tr{background-color:#D8ECE7;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+-->
 <table class="tg" style="undefined;table-layout: fixed; width: 268px">
 <colgroup>
 <col style="width: 66px">
@@ -1938,6 +1942,7 @@ print(classification_report(y_t, y_t_pred))
 print("混淆矩阵：", confusion_matrix(y_t, y_t_pred))
 ```
 
+<!-- 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -1951,7 +1956,8 @@ print("混淆矩阵：", confusion_matrix(y_t, y_t_pred))
 .tg .tg-zm63{background-color:#B7DCFB;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-50tr{background-color:#D8ECE7;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+</style> 
+-->
 <table class="tg" style="undefined;table-layout: fixed; width: 568px">
 <colgroup>
 <col style="width: 95px">
@@ -2005,6 +2011,7 @@ print("混淆矩阵：", confusion_matrix(y_t, y_t_pred))
 </tbody>
 </table>
 
+<!-- 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -2014,6 +2021,7 @@ print("混淆矩阵：", confusion_matrix(y_t, y_t_pred))
 .tg .tg-vjyh{background-color:#E6E7E7;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 </style>
+-->
 <table class="tg" style="undefined;table-layout: fixed; width: 379px">
 <colgroup>
 <col style="width: 166px">
